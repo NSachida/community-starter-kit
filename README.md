@@ -1,11 +1,31 @@
-# Your GitHub Learning Lab Repository for Community Starter Kit
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+## Meet Mona 
 
-Oh! I haven't introduced myself...
+![Monalisa octocat: the original](https://octodex.github.com/images/original.png)
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added a pull request for you to check out.
+Mona is part of a growing team of developers. To help onboard new teammates, Mona has created a slick [Probot](https://probot.github.io/) app called **Welcome**. Welcome automatically generates friendly messages when new team members create their first issue and open or merge their first pull request. 
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+So far, Mona has been working with a few members of the team to fine-tune the app, but someone recommended they make the project open source so that other projects can start creating the same awesome experiences for first timers. Mona has never published an open source project before, so after receiving the OK from legal, Mona is looking for some help.
 
-I'll meet you over there, can't wait to get started!
+In this course, you will help Mona get the **Welcome-bot** repository ready for the open source community.
+
+### What is Probot
+
+Great question! [Probot](https://probot.github.io/) is an open source framework that allows you to create GitHub apps to automate your GitHub workflow. Probot is also an example of a great community - be sure to stop by and check them out.
+
+### Our Goals
+
+In this course, you will work with Mona to:
+
+- Help others understand how they can use Mona's project
+- Recognize the ways people may contribute
+- Establish systems to organize contributions
+- Set expectations for contributors
+- Make Mona's project easy to find
+
+### We :heart: welcome
+
+We want to thank the maintainers of [**welcome-bot**](https://github.com/behaviorbot/welcome), an actual Probot app that welcomes new users, for graciously allowing us to use their awesome app for this course. After your open source project is up and running, we recommend you check out **welcome** and some of the other bots created by [the developers of behaviorbot](https://github.com/behaviorbot).
+
+<hr>
+<h3 align="center">Keep reading below to find your first task.</h3>
